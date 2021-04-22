@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vm-api-example.iml" filepath="$PROJECT_DIR$/.idea/modules/vm-api-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usbSerialExamples/vm-api-example.usbSerialExamples.iml" filepath="$PROJECT_DIR$/.idea/modules/usbSerialExamples/vm-api-example.usbSerialExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vmc/vm-api-example.vmc.iml" filepath="$PROJECT_DIR$/.idea/modules/vmc/vm-api-example.vmc.iml" />
+    </modules>
+  </component>
+</project>
